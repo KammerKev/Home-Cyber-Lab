@@ -16,7 +16,7 @@ This project establishes a home lab environment to build hands-on skills in Digi
 - **Target/Server Machine:** Older laptop, wiped and reimaged, repurposed as a target system hosting a Metasploitable2 VM
 - **Working Machine:** Daily driver running VMware Workstation, hosting a Kali Linux VM for monitoring and analysis
 - **Lab Network:** ASUS Wireless-AC1300 (RT-ACRH13) router, WAN disconnected, used as an isolated network separate from the home network
-- **Monitoring OS (TBD):** SANS SIFT Workstation or Kali Linux — still deciding
+- **Monitoring OS (TBD):** SANS Slingshot or Kali Linux — still deciding
 - **Network Analysis:** Nmap, Wireshark
 
 ## Steps
