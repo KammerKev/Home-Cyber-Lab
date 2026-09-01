@@ -81,7 +81,7 @@ Before starting lab work, I made sure Kali was fully up to date.
 
 *[TBD — continue: document the update commands used (e.g. `apt update && apt upgrade`) and note any issues encountered]*
 
-*[Add final decision: SANS SIFT vs. Kali Linux, and the reasoning behind it]*
+*[Add final decision: Kali Linux, and the reasoning behind it]*
 
 ### Step 4: Network Discovery
 *[Document using Nmap to identify the target machine on the network — include screenshots and command output]*
