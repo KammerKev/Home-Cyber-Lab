@@ -73,7 +73,7 @@ The old laptop was freshly reimaged and used as the host for the target VM.
 *[TBD — continue documenting: VM software used, Metasploitable2 import steps, network adapter configuration, and any issues encountered]*
 
 ### Step 3: Setting Up the Working/Monitoring Machine
-**Installing the Working VM — SANS SIFT vs. Kali Linux**
+**Installing the Working VM Kali Linux**
 
 Installation went smoothly. I already had VMware Workstation set up on my daily driver from working toward my GCIH cert, so I used that as the base rather than installing from scratch.
 
