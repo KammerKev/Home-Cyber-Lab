@@ -1,4 +1,4 @@
-# Home Cyber Lab Day 1 8/30/2026
+# Home Cyber Lab Development
 
 ## Objective
 This project establishes a home lab environment to build hands-on skills in Digital Forensics and Incident Response (DFIR). The lab uses two machines on an isolated home network: an older computer configured as a target/server system, and my main computer running a working VM for analysis and monitoring. The goal is to practice identifying systems on a network, gaining access, and pulling information through tools like Nmap and Wireshark, then build toward deeper detection and forensic analysis as the lab evolves.
